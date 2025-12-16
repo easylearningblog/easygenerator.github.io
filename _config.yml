@@ -1,0 +1,9 @@
+title: "Easy Learning Blog"
+email: m.qadir@easygenerator.com
+description: >- # this means to fold newlines to spaces
+  A short description of your site.
+baseurl: "" # leave empty for user site
+url: "https://easylearningblog.github.io"
+theme: minima
+markdown: kramdown
+paginate: 5
